@@ -2,6 +2,11 @@ A command-line application designed to track player scores and match results.
 
 The system utilizes File I/O to save data between sessions.
 
+To run:         
+-run PP.c     
+-the program will automatically create matches.csv and players.csv           
+-navigate through the interactive menu to add match, display the leaderboard or the player history
+
 Functionalities:
 
 1. Add Match                     
